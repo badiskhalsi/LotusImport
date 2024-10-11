@@ -24,4 +24,4 @@ The **Contact Importer** project is designed to extract email addresses, first n
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/email-importer.git
+https://github.com/badiskhalsi/LotusImport.git
